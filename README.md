@@ -1,0 +1,2 @@
+# googleTranslateAPI
+google关闭google中国站点之后，无法在chrome直接使用翻译。此程序可以找到可用的translateapi ip
